@@ -1,6 +1,6 @@
 package Fundamentos.Fundamentos;
 
-public class inferencia {
+public class Inferencia {
    public static void main(String[] args) {
        
     // pelo valor que você colocou o java vai definir o tipo
