@@ -27,5 +27,7 @@ public class conversaoPrimitivos {
 
         double e = 1.0; 
         int f = (int) e; //conversão explicita porque o java analisa os tipos, não os valores
+        System.out.println(f);
+        // ____________________________
     }
 }
