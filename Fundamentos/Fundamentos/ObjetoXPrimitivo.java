@@ -13,7 +13,7 @@ public class ObjetoXPrimitivo {
 
         String a = new String("texto"); //você tbm pode criar o String como um objeto
         // tudo que não é primitivo é um objeto
-
+        System.out.println(a);
 
         // Wrappers - versão objetos dos tipos primitivos
         // Os tipos primitivos carregam somente o valor e não existem comportamentos para primitivos, só alterando o este

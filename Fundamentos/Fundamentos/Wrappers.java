@@ -15,6 +15,9 @@ public class Wrappers {
         Short s = 1000;
         Integer i = 10000; // altera para Integer para se ultilizar em Whappers para embrulho em um objeto
         Long l = 100000L; // para a conversão é necessário ter um L maiusculo
+        // ____________________________
+        System.out.println(s);
+        System.out.println(l);
 
         // o valor acossiado a ela
         b.byteValue(); // como o Byte se tornou em objeto, pose-se ultilizar o ponto para acrescentar
@@ -38,9 +41,16 @@ public class Wrappers {
 
         Character c = 'b';
         System.out.println(b.toString()); // transformou o caracter em String
+        // ____________________________
+        System.out.println(c);
 
         Float f = 12F;
         double d = 123.44;
+        // ____________________________
+        System.out.println(f);
+        System.out.println(d);
 
+        //____________________________
+        ler.close();
     }
 }
