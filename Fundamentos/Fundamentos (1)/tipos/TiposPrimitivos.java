@@ -1,4 +1,4 @@
-package Fundamentos.Fundamentos;
+package Fundamentos.Fundamentos.tipos;
 
 public class TiposPrimitivos {
 

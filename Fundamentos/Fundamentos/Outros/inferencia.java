@@ -1,4 +1,6 @@
-package Fundamentos.Fundamentos;
+package Fundamentos.Fundamentos.Outros;
+
+
 
 public class inferencia {
    public static void main(String[] args) {

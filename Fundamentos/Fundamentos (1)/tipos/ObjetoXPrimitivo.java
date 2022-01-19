@@ -1,4 +1,4 @@
-package Fundamentos.Fundamentos;
+package Fundamentos.Fundamentos.tipos;
 
 public class ObjetoXPrimitivo {
     // java tem seis tipos primitivos como ja foram ditos int, double, float,

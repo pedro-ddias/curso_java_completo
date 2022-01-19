@@ -1,4 +1,4 @@
-package Fundamentos.Fundamentos;
+package Fundamentos.Fundamentos.tipos;
 
 // conjunto de caracteres do tipo char
 public class TipoString {

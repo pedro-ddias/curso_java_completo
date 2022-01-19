@@ -1,4 +1,4 @@
-package Fundamentos.Fundamentos;
+package Fundamentos.desafios;
 
 public class desafioAreaCircunferencia {
     

@@ -1,4 +1,4 @@
-package Fundamentos.Fundamentos;
+package Fundamentos.Fundamentos.conversao;
 
 public class conversaoNumeroString {
     public static void main(String[] args) {
