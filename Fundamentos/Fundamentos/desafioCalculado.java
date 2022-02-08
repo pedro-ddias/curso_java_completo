@@ -18,14 +18,11 @@ public class desafioCalculado {
         double resultado;
         if ("+".equals(op)) {
             resultado = num1 + num2;
-        }
-        else if ("-".equals(op)) {
+        } else if ("-".equals(op)) {
             resultado = num1 - num2;
-        }
-        else if ("*".equals(op)) {
+        } else if ("*".equals(op)) {
             resultado = num1 * num2;
-        }
-        else if ("/".equals(op)) {
+        } else if ("/".equals(op)) {
             resultado = num1 / num2;
         } else {
             resultado = num1 % num2;
