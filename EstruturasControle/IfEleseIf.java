@@ -5,6 +5,7 @@ public class IfEleseIf {
         Scanner ler = new Scanner (System.in);
         
         
+        
         ler.close();
     }
 }
