@@ -1,3 +1,5 @@
+package IfElse;
+
 import javax.swing.JOptionPane;
 
 public class ifElse {

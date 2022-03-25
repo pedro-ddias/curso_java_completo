@@ -1,3 +1,5 @@
+package IfElse;
+
 import java.util.Scanner;
 
 public class DesafioDiaSemana {
@@ -28,6 +30,7 @@ public class DesafioDiaSemana {
             System.out.println("Dia inválido");
         }
 
+        ler.close();
     }
 
 }
